@@ -1,0 +1,94 @@
+body{
+	background-image: url("");
+
+}
+
+form{
+	margin: 15px;
+	text-orientation: center;
+
+}
+
+#startButton{
+	color: #ba2c2b;
+	background-color: #c79639; 
+}
+
+#submitButton{
+	color: #ba2c2b;
+	background-color: #c79639;
+	font-family: 'Dancing Script', cursive;
+	font-size: 53px,
+	
+
+}
+
+#header h1{
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 50px;
+	color: #c79639;
+	text-align: center;
+	background-color: #ddd;
+	font-family: 'Dancing Script', cursive;
+	font-size: 52px;
+	border-style: solid;
+	border-width: 10px;
+	border-color: #ba2c2b;
+
+}
+
+
+#questionContainer{
+	color: #b7903c
+	width: 400px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #ba2c2b;
+}
+
+#radio{
+	margin: 25px;
+}
+
+#begin{
+	margin: 0 100px 0 100px;
+	color: #c79639;
+	font-family: 'Dancing Script', cursive;
+	font-size: 25px;
+}
+
+#body-panel{
+	margin: 0 100px 0 100px
+
+}
+
+#finalDiv h4{
+	color: white;
+	font-size: 25px;
+	font-family: 'Dancing Script', cursive;
+	background-image: url("");
+	padding: 0;
+	height: 420px;
+	width: 640px;
+
+}
+
+.h5, h5{
+	font-size: 50px;
+}
+
+#quiz{
+	background-color: #ddd;
+	margin-top: 0;
+}
+
+#submit{
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 300px;
+}
+
+
+
+
