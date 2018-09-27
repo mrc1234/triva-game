@@ -36,32 +36,32 @@
 
 		var trivia = [
 			{
-				question: "What department of the Federal Government was Alexander Hamilton in charge of?",
-				answers: ["State", "Education", "Labor", "Treasury"],
+				question: "",
+				answers: [""],
 				rightAnswer: 4,
 			},
 
 			{
-				question: "Hamilton did not help establish which of the following?",
-				answers: ["First National Bank", "US Coast Guard", "Smithsonian Museum", "US Mint"],
+				question: "",
+				answers: [""],
 				rightAnswer: 3,
 			},
 
 			{
-				question: "Which country was Alexander Hamilton born in?",
-				answers: ["France", "USA", "Nevis", "Ireland"],
+				question: "",
+				answers: [""],
 				rightAnswer: 3,
 			},
 
 			{
-				question: "Hamilton's portrait is on which US bill?",
-				answers: ["$5 bill", "$10 bill", "$50 bill", "$20 bill"],
+				question: "",
+				answers: [""],
 				rightAnswer: 2,
 			},
 
 			{
-				question: "Hamilton helped found the newspaper that became?",
-				answers: ["New York Post", "New York Times", "New York Sun", "New York Herald Tribune"],
+				question: "",
+				answers: [""],
 				rightAnswer: 1,
 			},
 
@@ -231,7 +231,7 @@
 		$(".panel-body").show();
 		$("finalDiv").toggle(true);
 		$("finalDiv").html("<h3>Finished!</h3><p>Your Score</p><p>Right: " + correctAnswers + "</p><p>Wrong: "+ wrongAnswers +"</p>");
-		$("finalDiv").html('img src = url../images/hamilton-1.jpg')
+		$("finalDiv").html('')
 		
 
 		console.log("right  " + correctAnswers);
